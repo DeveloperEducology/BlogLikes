@@ -4,12 +4,12 @@ import {getFirestore} from 'firebase/firestore';
 import {getStorage} from 'firebase/storage';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBJ3UuZkvHdINbfkSBDNHUQwS186GntD-g",
-    authDomain: "my-articles-e49dc.firebaseapp.com",
-    projectId: "my-articles-e49dc",
-    storageBucket: "my-articles-e49dc.appspot.com",
-    messagingSenderId: "58049292763",
-    appId: "1:58049292763:web:f9581d31abf0824018dffe"
+     apiKey: 'AIzaSyCnQJhNzPILgrPrmDDgRywM-6unRp6gz1s',
+  authDomain: 'fir-learning-29cf4.firebaseapp.com',
+  projectId: 'fir-learning-29cf4',
+  storageBucket: 'fir-learning-29cf4.appspot.com',
+  messagingSenderId: '711378401773',
+  appId: '1:711378401773:web:c6a2f7fb0eb612c42f4fe4',
   };
 
   const app = initializeApp(firebaseConfig);
